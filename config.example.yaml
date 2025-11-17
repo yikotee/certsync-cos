@@ -1,0 +1,16 @@
+cos:
+  bucket: "cert-123456789"
+  region: "ap-beijing"
+  secret_id: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  secret_key: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  prefix: "prefix"
+  cert_path: "your/cert/folder/xxx.cert"
+  key_path: "your/cert/folder/xxx.key"
+
+local:
+  cert_path: "/Users/kavi/Downloads"
+  key_path: "/Users/kavi/Downloads"
+  reload_cmd: "systemctl reload nginx"
+
+domain: "example.com"
+schedule: "@every 12h"

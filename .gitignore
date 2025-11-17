@@ -1,0 +1,39 @@
+# 配置文件（包含敏感信息）
+config.yaml
+
+# 证书文件
+*.crt
+*.key
+*.pem
+certs/
+
+# 编译产物
+certsync-cos
+certsync-cos.exe
+certsync-cos-*
+dist/
+build/
+
+# 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 环境变量
+.env
+.env.*
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+*.bak
