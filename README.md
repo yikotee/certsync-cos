@@ -3,12 +3,8 @@
 <p align="center">
     <a href="https://goreportcard.com/report/github.com/yikotee/certsync-cos">
     <img src="https://goreportcard.com/badge/github.com/yikotee/certsync-cos" /></a>
-    <a href="https://pkg.go.dev/github.com/yikotee/certsync-cos">
-    <img src="https://pkg.go.dev/badge/github.com/yikotee/certsync-cos.svg" alt="Go Reference" /></a>
     <a href="https://github.com/yikotee/certsync-cos/blob/main/README.md">
     <img src="https://img.shields.io/badge/Docs-使用文档-blue?style=flat-square&logo=readthedocs" alt="Docs" /></a>
-    <a href="https://github.com/yikotee/certsync-cos/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=github" alt="License" /></a>
 </p>
 
 <h3 align="center">一个轻量级的证书同步工具 🔒</h3>
