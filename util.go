@@ -1,9 +1,9 @@
-// Package: certsync-cos
+// Package: main
 // File: util.go
 // Author: Kavi
 // Created: 2025-11-17
 // Updated: 2025-11-17
-// Description: 文件描述
+// Description: 工具函数
 //
 // -----------------------------------------------------------------------------
 // Copyright (c) 2025 Kavi. All rights reserved.

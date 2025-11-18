@@ -1,9 +1,9 @@
-// Package: certsync-cos
+// Package: main
 // File: main.go
 // Author: Kavi
 // Created: 2025-11-17
 // Updated: 2025-11-17
-// Description: 文件描述
+// Description: 从腾讯云COS同步SSL证书到本地存储
 //
 // -----------------------------------------------------------------------------
 // Copyright (c) 2025 Kavi. All rights reserved.
